@@ -1,0 +1,27 @@
+
+
+<h4><html xmlns='http://www.w3.org/1999/xhtml'></h4>
+<h4><head></h4>
+<h4><title>MMC_Dashboard - Daily Verification - QA Environment</title></h4>
+<h4></head></h4>
+<h4><body></h4>
+<h4><center></h4>
+<h4><TABLE width='900'  border='1'  height ='80' bordercolor='black'></h4>
+<h4><TD></h4>
+<h4><TABLE width='800'  border='0'  height ='80' bordercolor='black'></h4>
+<h4><TR height='80'></h4>
+<h4><TD width='500' align='center' valign='bottom'><img src='C:\Sarath QTP Work\Image\GSI Health.png'/></TD></h4>
+<h4><TD width='900' align='center'><B><I><FONT SIZE='+3'  color='FireBrick'>MMC Dashboard Daily Verification - QA Environment</FONT></I></B></TD></h4>
+<h4><TD  width='500' align='center'><B><script type='text/javascript'>var mydate= new Date(); document.write(mydate.toLocaleDateString())</script></TD></h4>
+<h4></TR></h4>
+<h4></TABLE></h4>
+<h4></TD></h4>
+<h4><TABLE width='900'  height ='400'  border='1'  cellspacing='0' cellpadding='1' bordercolor='black'></h4>
+<h4><TD VALIGN='top'  border='1' align='center'></h4>
+<h4><center></h4>
+<h4><TABLE width='800' border='1' bordercolor='black'></h4>
+<h4><TR></h4>
+<h4><TD align='center' border='1'><B><h3> Action</h3></B></TD></h4>
+<h4><TD align='center'><B><h3>Time Taken </h3></B></TD></h4>
+<h4></TR></h4>
+<h4><TR></h4>
