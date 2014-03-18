@@ -1,4 +1,3 @@
-
 public class DigitsNumberSum {
 	public static void main(String[] args) {
 		String  str = "1234";	
@@ -9,3 +8,4 @@ public class DigitsNumberSum {
 		
 	}
 }
+//This is a simple comment line
